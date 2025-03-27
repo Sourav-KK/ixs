@@ -1,0 +1,19 @@
+.logo-nav-container {
+      display: flex;
+      height: 75px;
+      border: 2px red solid;
+
+}
+
+#img-logo {
+      height: 5px;
+      width: 5px;
+}
+
+picture {
+      height: 2px;
+}
+
+img{
+      height: 100px;
+}
